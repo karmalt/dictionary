@@ -31,7 +31,7 @@ header {
     input {
       width: 50vw;
       border: none;
-      background-color: #515156;
+      background-color: #25252a;
       border-bottom: 1px solid rgb(197, 188, 188);
       padding: 5px;
       font-size: 18px;
